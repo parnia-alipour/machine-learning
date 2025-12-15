@@ -38,7 +38,7 @@ model.preduct(x_test)
 
 !["image2"](https://github.com/parnia-alipour/machine-learning/blob/master/Screenshot%202025-12-05%20073215.png?raw=true)
 
-!['image'](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)       !['image3'](https://img.shields.io/badge/machine%20learning-purple)      !['image4'](https://img.shields.io/github/commit-activity/m/parnia-alipour/project/master) !['image5'](https://img.shields.io/github/contributors/parnia-alipour/project
+!['image'](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)       !['image3'](https://img.shields.io/badge/machine%20learning-purple)      !['image4'](https://img.shields.io/github/commit-activity/m/parnia-alipour/project/master) !['image5'](https://img.shields.io/github/contributors/parnia-alipour/project  
 )
 
 
