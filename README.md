@@ -10,22 +10,23 @@ ___
 2. `logistic regression`
 3. `Svm`
 
-* ### Artificial intelligence to determine whether it will rain today or not ==== weather.ipynb(KNeighborsClassifier)[click](https://github.com/parnia-alipour/machine-learning/blob/master/weather.ipynb)
-* ### Artificial intelligence for music genre recognition==== music.ipynb(Random Forest)[click](https://github.com/parnia-alipour/machine-learning/blob/master/iris.ipynb)
-* ### This algorithm is designed with the aim of analyzing customer personality and segmenting them for better marketing for employees and investors====shape.ipynb(Hierarchical algorithm)[click](https://github.com/parnia-alipour/machine-learning/blob/master/music.ipynb)
+* ### Artificial intelligence to determine whether it will rain today or not ==== (KNeighborsClassifier)--[weather.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/weather.ipynb)
+* ### Artificial intelligence for music genre recognition==== (Random Forest)--[music.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/iris.ipynb)
+* ### This algorithm is designed with the aim of analyzing customer personality and segmenting them for better marketing for employees and investors====(Hierarchical algorithm)--[shape.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/music.ipynb)
 
-* ### Artificial intelligence to determine whether people are male or female based on their voices===voice.ipynb(GaussianNB)[click](https://github.com/parnia-alipour/machine-learning/blob/master/voice.ipynb)
+* ### Artificial intelligence to determine whether people are male or female based on their voices===(GaussianNB)--[voice.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/voice.ipynb)
 
-* ### Implementation of the same customer personality analysis and segmentation for better marketing, but this time with SciPy===scipy_hierarchiacal.ipynb[click](https://github.com/parnia-alipour/machine-learning/blob/master/scipy_hierarchiacal.ipynb)
+* ### Implementation of the same customer personality analysis and segmentation for better marketing, but this time with SciPy===[scipy_hierarchiacal.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/scipy_hierarchiacal.ipynb)
 
-* ### Iris flower clustering====iris.ipynb(k-means)[click](https://github.com/parnia-alipour/machine-learning/blob/master/iris.ipynb)
-* ### Artificial intelligence for estimating house prices based on location, number of rooms, and so on====home_California.ipynb[click](https://github.com/parnia-alipour/machine-learning/blob/master/home_California.ipynb)
+* ### Iris flower clustering====(k-means)--[iris.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/iris.ipynb)
+* ### Artificial intelligence for estimating house prices based on location, number of rooms, and so on====Linear regression--[home_California.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/home_California.ipynb)
 
-* ### Artificial intelligence for sentiment analysis===ehsasat.ipynb(SVM)[click](https://github.com/parnia-alipour/machine-learning/blob/master/ehsasat.ipynb)
+* ### Artificial intelligence for sentiment analysis===(SVM)--[ehsasat.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/ehsasat.ipynb)
 
-* ### Artificial intelligence for diabetes diagnosis===diabetes.ipynb(Decision Tree)[click](https://github.com/parnia-alipour/machine-learning/blob/master/diabetes.ipynb)
+* ### Artificial intelligence for diabetes diagnosis===(Decision Tree)--[diabetes.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/diabetes.ipynb)
 
-* ### Artificial intelligence for diagnosing heart disease===heart_disease.ipynb(Logistic Regression)[click](https://github.com/parnia-alipour/machine-learning/blob/master/heart_disease.ipynb)
+* ### Artificial intelligence for diagnosing heart disease===(Logistic Regression)--[heart_disease.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/heart_disease.ipynb)
+
 
 
 
