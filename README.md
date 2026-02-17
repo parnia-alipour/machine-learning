@@ -11,7 +11,9 @@ ___
 3. `Svm`
 
 *  Artificial intelligence to determine whether it will rain today or not ==== (KNeighborsClassifier)--[weather.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/weather.ipynb)
-*  Artificial intelligence for music genre recognition==== (Random Forest)--[music.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/iris.ipynb)
+
+*  Artificial intelligence for music genre recognition==== (Random Forest)--[music.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/music.ipynb)
+**In this project, I ran into a problem where the evaluation metrics were showing very high scores, but the model couldn't predict the genres correctly in practice. After some re-evaluation and analysis, I realized there was a data leakage issue: the target column hadn't been fully separated from the training data. So the model was basically just "seeing" the labels instead of actually learning the features. I fixed this by properly isolating the target, which led to a real and reliable prediction.**
 *  This algorithm is designed with the aim of analyzing customer personality and segmenting them for better marketing for employees and investors====(Hierarchical algorithm)--[shape.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/music.ipynb)
 
 * Artificial intelligence to determine whether people are male or female based on their voices===(GaussianNB)--[voice.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/voice.ipynb)
@@ -24,8 +26,11 @@ ___
 *  Artificial intelligence for sentiment analysis===(SVM)--[ehsasat.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/ehsasat.ipynb)
 
 *  Artificial intelligence for diabetes diagnosis===(Decision Tree)--[diabetes.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/diabetes.ipynb)
+**In this project, I noticed that the model was predicting every new data point as "diabetic"! After some analysis, I realized the model was "Overfitting" and failed to predict new data correctly. The most important thing I learned in this project was: never trust a perfect score of 1.0 until I have tested it thoroughly.**
+
 
 *  Artificial intelligence for diagnosing heart disease===(Logistic Regression)--[heart_disease.ipynb](https://github.com/parnia-alipour/machine-learning/blob/master/heart_disease.ipynb)
+**In this project, I noticed that the heart data was acting completely opposite to what was provided in the data description; it was predicting healthy people as sick and sick people as healthy. But how did I find out? From "Cholesterol" and "Oldpeak," because these are the most important criteria for heart disease and these two columns mostly define whether a person is sick or not**
 
 
 
@@ -52,8 +57,7 @@ from sklearn.linear_model import LogisticRegression
 model=LogisticRegression()
 model=model.fit(x_train,y_train)
 
-model.preduct(x_test)
-
+predictions = model.predict(x_test)
 
 ```
 
