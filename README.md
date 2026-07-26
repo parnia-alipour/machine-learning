@@ -1,6 +1,15 @@
 
 ![image2](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)
 
+---
+
+
+## How you can use my AI models and labs:
+
+1. Copy the code and paste it into a Python file.
+2. After running the code, remove the plotting parts (plt.show(), plt.figure(), etc.).
+3. Wrap the code in a for or while loop so you can test it multiple times and get results.
+
 
 ## Machine Learning
 ___
@@ -47,7 +56,6 @@ Please take a look at Music.ipynb first.👩🏻‍💻🙏🏻
 
 [read this](https://parnia-alipour.github.io/machine-learning/)
 
----
 ___
 
 ```python
