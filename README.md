@@ -8,8 +8,7 @@
 
 1. Copy the code and paste it into a Python file.
 2. After running the code, remove the plotting parts (plt.show(), plt.figure(), etc.).
-3. Wrap the code in a for or while loop so you can test it multiple times and get results.
-
+3. Wrap the code in a for or while loop and add an input inside the loop, so you can test it multiple times, provide new inputs, and get the results.
 
 ## Machine Learning
 ___
