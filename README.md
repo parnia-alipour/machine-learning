@@ -8,7 +8,8 @@
 
 1. Copy the code and paste it into a Python file.
 2. After running the code, remove the plotting parts (plt.show(), plt.figure(), etc.).
-3. Wrap the code in a for or while loop and add an input inside the loop, so you can test it multiple times, provide new inputs, and get the results.If standardization was applied during training, make sure to apply the same standardization to the input during testing as well.
+3. Create a loop, and put the test code inside that loop. Add inputs so you can enter the input values. If the model wrote includes standardization, make sure to apply that same standardization to the new data you enter as input.
+
 
 ## Machine Learning
 ___
