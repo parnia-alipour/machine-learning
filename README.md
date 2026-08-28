@@ -3,6 +3,7 @@
 
 ---
 
+IMPORTANT: The name of the algorithm is shown at the top of each notebook. Make sure you search for it and read about it this step is essential.
 
 ## How you can use my AI models and labs:
 
